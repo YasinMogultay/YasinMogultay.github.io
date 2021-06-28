@@ -11062,3 +11062,49 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+
+@media (max-width: 575.98px) {
+  iframe{
+    width: 525px;
+    height: 130px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  iframe{
+    width: 730px;
+    height: 330px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  iframe{
+  width: 930px;
+  height: 730px;
+ }
+}
+@media (max-width: 1199.98px) {
+  iframe{
+    width: 1100px;
+    height: 700px;
+  }
+}
+
+@media (max-width: 1399.98px) {
+  iframe {
+    width: 1300px;
+    height: 900px;
+  }
+}
+
+  @media (min-width: 1399.9px) {
+    iframe{
+      width: 1300px;
+      height: 900px;
+    }
+}
+
+
+
+
